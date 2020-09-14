@@ -34,20 +34,12 @@ PM_START_TEXT = """
 ┈┈┈┈╲┊┊┊┊╱┈┈┈┈
 ┈┈┈┈▕╲▂▂╱▏┈┈┈┈
 ╱▔▔▔▔┊┊┊┊▔▔▔▔╲
-HOI    {}, MY NAME IS {} !
 
-I AM A GROUP MANAGER BOT MAINTAINED BY 
+*Thank God I'M up !! [Bughunter](https://t.me/bughunter0) work asleep to Keep to Up*
 
-[THIS LEGEND](tg://user?id={}).
-
-HIT HELP FOR COMMANDS  /help
-
-I AM COMPLETELY OPEN SOURCE
-
-MY SOURCE CODE IS AVAILABLE TO YOU
-
-[HERE](https://github.com/leobrownlee/phantom)
-
+Hello Boy, I'M specially coded to work as a Group Manager Bot,
+Equipped with more Plugins (adding more plugins within days)
+Join [BUGHUNTERBOTS](https://t.me/bughunterbots)
 """
 
 HELP_STRINGS = """
